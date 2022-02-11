@@ -1,2 +1,3 @@
 # BK36-website
-This is a source code of my class homepage website tryremake it
+Source code about BK36 homepage website
+View it here https://nhungchubothieunang.ga
